@@ -1,0 +1,31 @@
+{
+  "secret": "",
+  "issuer": "https://localhost:3001/",
+  "development": {
+    "username": "postgres",
+    "password": "5oct1995",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+	"createdAt": "createdat",
+    "updatedAt": "updatedat"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "5oct1995",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+	"createdAt": "createdat",
+    "updatedAt": "updatedat"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "5oct1995",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+	"createdAt": "createdat",
+    "updatedAt": "updatedat"
+  }
+}
